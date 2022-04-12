@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Kumawat</h1>
-<h3 align="center">A passionate developer and competative programmer from India</h3>
+<h3 align="center">A passionate developer and competitive programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravkumawat33&label=Profile%20views&color=0e75b6&style=flat" alt="gauravkumawat33" /> </p>
 
